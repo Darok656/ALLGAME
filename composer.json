@@ -1,8 +1,11 @@
 {
-    "name": "BECWEB/allgame"
+    "name": "becweb/allgame",
     "autoload": {
         "psr-4": {
-            "Text\\":"src/"
-        }
+            "Text\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
     }
 }
