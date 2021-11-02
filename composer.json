@@ -1,0 +1,8 @@
+{
+    "name": "BECWEB/allgame"
+    "autoload": {
+        "psr-4": {
+            "Text\\":"src/"
+        }
+    }
+}
